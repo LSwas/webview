@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Reselling Business</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #2ecc71; /* Sea Green */
+            color: #000; /* Black */
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        header {
+            background-color: #3498db; /* Slightly darker shade for header */
+            color: #fff;
+            padding: 1em 0;
+        }
+
+        nav {
+            background-color: #3498db; /* Navigation bar color */
+            padding: 0.5em 0;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 1em;
+        }
+
+        section {
+            margin: 2em;
+        }
+
+        h1 {
+            color: #3498db;
+        }
+
+        p {
+            line-height: 1.6em;
+        }
+
+        footer {
+            background-color: #3498db;
+            color: #fff;
+            padding: 1em 0;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Your Reselling Business</h1>
+        <p>Bringing you the best deals!</p>
+    </header>
+
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#categories">Categories</a>
+        <a href="#featured">Featured Products</a>
+        <a href="#contact">Contact Us</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Welcome to Your Reselling Business! We are dedicated to providing quality products at unbeatable prices. Explore our collection and find the perfect items for you.</p>
+    </section>
+
+    <section id="categories">
+        <h2>Categories</h2>
+        <p>Discover our different types of offers and deals:</p>
+        <ul>
+            <li><a href="#electronics">Electronics</a></li>
+            <li><a href="#clothing">Clothing</a></li>
+            <li><a href="#home">Home & Living</a></li>
+        </ul>
+    </section>
+
+    <section id="featured">
+        <h2>Featured Products</h2>
+        <p>Check out our latest and greatest products:</p>
+        <!-- Add links to your reselling products here -->
+        <a href="link_to_product_1" target="_blank">Product 1</a><br>
+        <a href="link_to_product_2" target="_blank">Product 2</a><br>
+        <a href="link_to_product_3" target="_blank">Product 3</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Have questions or need assistance? Contact us at <a href="mailto:your@email.com">your@email.com</a>.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Your Reselling Business. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
